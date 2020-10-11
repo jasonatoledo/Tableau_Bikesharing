@@ -17,7 +17,7 @@ The results were interesting and to give a breakdown of how each viz provided in
 
 - Checkout Times by Users: This viz showed there were the most users during 5/6
 
-- Checkout Timse by Gender: The trip duration among males was definitely higher than females and unknown gender users
+- Checkout Times by Gender: The trip duration among males was definitely higher than females and unknown gender users
 
 - Trips by Gender: We can see that during the week, 8am and 5-6pm were the most popular times and on the weekends the time was more evenly distributed among all users
 
@@ -29,3 +29,5 @@ My favorite visualization made in this challenge was the "Checkout times by Gend
 
 
 ## Summary
+
+Overall, the results show usage is more heavily male-dominated with the peak hours matching typical work start and end times. The highest usage day of the week is Thursday. The weekends have more steady usage throughout the day. Subscribers make up a big part of the total usage compared to casual users. Two additonal visualizations that could be helpful for future analysis would be 1) A histogram to show the difference between subscribers and occasional customers and 2) A scatterplot to show the relationship between subscribers and gender.
